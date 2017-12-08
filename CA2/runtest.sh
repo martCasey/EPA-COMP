@@ -34,11 +34,12 @@ do
 
         fi
 done
-
+#get rid of while loops
 #Linux for loop
 for i in {$2..$3};
 do
 #Run load test in background with a pararmeter no longer than 10
+#loadtest runs forever
 ./loadtest $1 &
 #Collect and output CPU Utilization
 mpstat -o JSON | jq - "CPU"
