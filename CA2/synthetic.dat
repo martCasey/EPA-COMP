@@ -1,652 +1,484 @@
-2017-12-8-13-53-17    UserID [4]    Transaction Complete 
-2017-12-8-13-53-17    UserID [8]    Transaction Complete 
-2017-12-8-13-53-17    UserID [5]    Transaction Complete 
-2017-12-8-13-53-17    UserID [6]    Transaction Complete 
-2017-12-8-13-53-17    UserID [0]    Transaction Complete 
-2017-12-8-13-53-17    UserID [3]    Transaction Complete 
-2017-12-8-13-53-17    UserID [7]    Transaction Complete 
-2017-12-8-13-53-17    UserID [2]    Transaction Complete 
-2017-12-8-13-53-17    UserID [9]    Transaction Complete 
-2017-12-8-13-53-17    UserID [1]    Transaction Complete 
-2017-12-8-13-53-17    UserID [8]    Transaction Complete 
-2017-12-8-13-53-17    UserID [4]    Transaction Complete 
-2017-12-8-13-53-17    UserID [0]    Transaction Complete 
-2017-12-8-13-53-17    UserID [6]    Transaction Complete 
-2017-12-8-13-53-17    UserID [3]    Transaction Complete 
-2017-12-8-13-53-17    UserID [5]    Transaction Complete 
-2017-12-8-13-53-17    UserID [9]    Transaction Complete 
-2017-12-8-13-53-17    UserID [1]    Transaction Complete 
-2017-12-8-13-53-17    UserID [2]    Transaction Complete 
-2017-12-8-13-53-17    UserID [7]    Transaction Complete 
-2017-12-8-13-53-18    UserID [8]    Transaction Complete 
-2017-12-8-13-53-18    UserID [1]    Transaction Complete 
-2017-12-8-13-53-18    UserID [4]    Transaction Complete 
-2017-12-8-13-53-18    UserID [6]    Transaction Complete 
-2017-12-8-13-53-18    UserID [5]    Transaction Complete 
-2017-12-8-13-53-18    UserID [3]    Transaction Complete 
-2017-12-8-13-53-18    UserID [0]    Transaction Complete 
-2017-12-8-13-53-18    UserID [2]    Transaction Complete 
-2017-12-8-13-53-18    UserID [9]    Transaction Complete 
-2017-12-8-13-53-18    UserID [7]    Transaction Complete 
-2017-12-8-13-53-18    UserID [9]    Transaction Complete 
-2017-12-8-13-53-18    UserID [7]    Transaction Complete 
-2017-12-8-13-53-18    UserID [6]    Transaction Complete 
-2017-12-8-13-53-18    UserID [8]    Transaction Complete 
-2017-12-8-13-53-18    UserID [2]    Transaction Complete 
-2017-12-8-13-53-18    UserID [4]    Transaction Complete 
-2017-12-8-13-53-18    UserID [3]    Transaction Complete 
-2017-12-8-13-53-18    UserID [1]    Transaction Complete 
-2017-12-8-13-53-18    UserID [0]    Transaction Complete 
-2017-12-8-13-53-18    UserID [5]    Transaction Complete 
-2017-12-8-13-53-18    UserID [4]    Transaction Complete 
-2017-12-8-13-53-19    UserID [1]    Transaction Complete 
-2017-12-8-13-53-19    UserID [6]    Transaction Complete 
-2017-12-8-13-53-19    UserID [9]    Transaction Complete 
-2017-12-8-13-53-19    UserID [5]    Transaction Complete 
-2017-12-8-13-53-19    UserID [7]    Transaction Complete 
-2017-12-8-13-53-19    UserID [2]    Transaction Complete 
-2017-12-8-13-53-19    UserID [0]    Transaction Complete 
-2017-12-8-13-53-19    UserID [3]    Transaction Complete 
-2017-12-8-13-53-19    UserID [8]    Transaction Complete 
-2017-12-8-13-53-19    UserID [2]    Transaction Complete 
-2017-12-8-13-53-19    UserID [6]    Transaction Complete 
-2017-12-8-13-53-19    UserID [5]    Transaction Complete 
-2017-12-8-13-53-19    UserID [8]    Transaction Complete 
-2017-12-8-13-53-19    UserID [3]    Transaction Complete 
-2017-12-8-13-53-19    UserID [7]    Transaction Complete 
-2017-12-8-13-53-19    UserID [0]    Transaction Complete 
-2017-12-8-13-53-19    UserID [1]    Transaction Complete 
-2017-12-8-13-53-19    UserID [4]    Transaction Complete 
-2017-12-8-13-53-19    UserID [9]    Transaction Complete 
-2017-12-8-13-53-19    UserID [5]    Transaction Complete 
-2017-12-8-13-53-19    UserID [9]    Transaction Complete 
-2017-12-8-13-53-19    UserID [0]    Transaction Complete 
-2017-12-8-13-53-19    UserID [4]    Transaction Complete 
-2017-12-8-13-53-19    UserID [3]    Transaction Complete 
-2017-12-8-13-53-19    UserID [1]    Transaction Complete 
-2017-12-8-13-53-19    UserID [7]    Transaction Complete 
-2017-12-8-13-53-19    UserID [6]    Transaction Complete 
-2017-12-8-13-53-19    UserID [2]    Transaction Complete 
-2017-12-8-13-53-19    UserID [8]    Transaction Complete 
-2017-12-8-13-53-20    UserID [8]    Transaction Complete 
-2017-12-8-13-53-20    UserID [3]    Transaction Complete 
-2017-12-8-13-53-20    UserID [6]    Transaction Complete 
-2017-12-8-13-53-20    UserID [5]    Transaction Complete 
-2017-12-8-13-53-20    UserID [7]    Transaction Complete 
-2017-12-8-13-53-20    UserID [4]    Transaction Complete 
-2017-12-8-13-53-20    UserID [1]    Transaction Complete 
-2017-12-8-13-53-20    UserID [9]    Transaction Complete 
-2017-12-8-13-53-20    UserID [2]    Transaction Complete 
-2017-12-8-13-53-20    UserID [0]    Transaction Complete 
-2017-12-8-13-53-20    UserID [6]    Transaction Complete 
-2017-12-8-13-53-20    UserID [8]    Transaction Complete 
-2017-12-8-13-53-20    UserID [3]    Transaction Complete 
-2017-12-8-13-53-20    UserID [4]    Transaction Complete 
-2017-12-8-13-53-20    UserID [7]    Transaction Complete 
-2017-12-8-13-53-20    UserID [1]    Transaction Complete 
-2017-12-8-13-53-20    UserID [0]    Transaction Complete 
-2017-12-8-13-53-20    UserID [2]    Transaction Complete 
-2017-12-8-13-53-20    UserID [5]    Transaction Complete 
-2017-12-8-13-53-20    UserID [9]    Transaction Complete 
-2017-12-8-13-53-21    UserID [4]    Transaction Complete 
-2017-12-8-13-53-21    UserID [7]    Transaction Complete 
-2017-12-8-13-53-21    UserID [5]    Transaction Complete 
-2017-12-8-13-53-21    UserID [6]    Transaction Complete 
-2017-12-8-13-53-21    UserID [2]    Transaction Complete 
-2017-12-8-13-53-21    UserID [1]    Transaction Complete 
-2017-12-8-13-53-21    UserID [9]    Transaction Complete 
-2017-12-8-13-53-21    UserID [3]    Transaction Complete 
-2017-12-8-13-53-21    UserID [0]    Transaction Complete 
-2017-12-8-13-53-21    UserID [8]    Transaction Complete 
-2017-12-8-13-53-21    UserID [9]    Transaction Complete 
-2017-12-8-13-53-21    UserID [8]    Transaction Complete 
-2017-12-8-13-53-21    UserID [2]    Transaction Complete 
-2017-12-8-13-53-21    UserID [0]    Transaction Complete 
-2017-12-8-13-53-21    UserID [7]    Transaction Complete 
-2017-12-8-13-53-21    UserID [5]    Transaction Complete 
-2017-12-8-13-53-21    UserID [6]    Transaction Complete 
-2017-12-8-13-53-21    UserID [3]    Transaction Complete 
-2017-12-8-13-53-21    UserID [1]    Transaction Complete 
-2017-12-8-13-53-21    UserID [4]    Transaction Complete 
-2017-12-8-13-53-22    UserID [2]    Transaction Complete 
-2017-12-8-13-53-22    UserID [1]    Transaction Complete 
-2017-12-8-13-53-22    UserID [0]    Transaction Complete 
-2017-12-8-13-53-22    UserID [8]    Transaction Complete 
-2017-12-8-13-53-22    UserID [3]    Transaction Complete 
-2017-12-8-13-53-22    UserID [5]    Transaction Complete 
-2017-12-8-13-53-22    UserID [6]    Transaction Complete 
-2017-12-8-13-53-22    UserID [7]    Transaction Complete 
-2017-12-8-13-53-22    UserID [4]    Transaction Complete 
-2017-12-8-13-53-22    UserID [9]    Transaction Complete 
-2017-12-8-13-53-22    UserID [3]    Transaction Complete 
-2017-12-8-13-53-22    UserID [4]    Transaction Complete 
-2017-12-8-13-53-22    UserID [8]    Transaction Complete 
-2017-12-8-13-53-22    UserID [6]    Transaction Complete 
-2017-12-8-13-53-22    UserID [7]    Transaction Complete 
-2017-12-8-13-53-22    UserID [1]    Transaction Complete 
-2017-12-8-13-53-22    UserID [9]    Transaction Complete 
-2017-12-8-13-53-22    UserID [0]    Transaction Complete 
-2017-12-8-13-53-22    UserID [5]    Transaction Complete 
-2017-12-8-13-53-22    UserID [2]    Transaction Complete 
-2017-12-8-13-53-22    UserID [4]    Transaction Complete 
-2017-12-8-13-53-22    UserID [8]    Transaction Complete 
-2017-12-8-13-53-22    UserID [5]    Transaction Complete 
-2017-12-8-13-53-22    UserID [1]    Transaction Complete 
-2017-12-8-13-53-22    UserID [9]    Transaction Complete 
-2017-12-8-13-53-22    UserID [2]    Transaction Complete 
-2017-12-8-13-53-22    UserID [7]    Transaction Complete 
-2017-12-8-13-53-22    UserID [0]    Transaction Complete 
-2017-12-8-13-53-22    UserID [6]    Transaction Complete 
-2017-12-8-13-53-22    UserID [3]    Transaction Complete 
-2017-12-8-13-53-23    UserID [4]    Transaction Complete 
-2017-12-8-13-53-23    UserID [9]    Transaction Complete 
-2017-12-8-13-53-23    UserID [7]    Transaction Complete 
-2017-12-8-13-53-23    UserID [8]    Transaction Complete 
-2017-12-8-13-53-23    UserID [2]    Transaction Complete 
-2017-12-8-13-53-23    UserID [5]    Transaction Complete 
-2017-12-8-13-53-23    UserID [3]    Transaction Complete 
-2017-12-8-13-53-23    UserID [0]    Transaction Complete 
-2017-12-8-13-53-23    UserID [6]    Transaction Complete 
-2017-12-8-13-53-23    UserID [1]    Transaction Complete 
-2017-12-8-13-53-23    UserID [4]    Transaction Complete 
-2017-12-8-13-53-23    UserID [6]    Transaction Complete 
-2017-12-8-13-53-23    UserID [5]    Transaction Complete 
-2017-12-8-13-53-23    UserID [8]    Transaction Complete 
-2017-12-8-13-53-23    UserID [9]    Transaction Complete 
-2017-12-8-13-53-23    UserID [3]    Transaction Complete 
-2017-12-8-13-53-23    UserID [2]    Transaction Complete 
-2017-12-8-13-53-23    UserID [0]    Transaction Complete 
-2017-12-8-13-53-23    UserID [7]    Transaction Complete 
-2017-12-8-13-53-23    UserID [1]    Transaction Complete 
-2017-12-8-13-53-24    UserID [4]    Transaction Complete 
-2017-12-8-13-53-24    UserID [6]    Transaction Complete 
-2017-12-8-13-53-24    UserID [2]    Transaction Complete 
-2017-12-8-13-53-24    UserID [7]    Transaction Complete 
-2017-12-8-13-53-24    UserID [0]    Transaction Complete 
-2017-12-8-13-53-24    UserID [9]    Transaction Complete 
-2017-12-8-13-53-24    UserID [8]    Transaction Complete 
-2017-12-8-13-53-24    UserID [1]    Transaction Complete 
-2017-12-8-13-53-24    UserID [3]    Transaction Complete 
-2017-12-8-13-53-24    UserID [5]    Transaction Complete 
-2017-12-8-13-53-24    UserID [4]    Transaction Complete 
-2017-12-8-13-53-24    UserID [5]    Transaction Complete 
-2017-12-8-13-53-24    UserID [2]    Transaction Complete 
-2017-12-8-13-53-24    UserID [1]    Transaction Complete 
-2017-12-8-13-53-24    UserID [3]    Transaction Complete 
-2017-12-8-13-53-24    UserID [7]    Transaction Complete 
-2017-12-8-13-53-24    UserID [8]    Transaction Complete 
-2017-12-8-13-53-24    UserID [0]    Transaction Complete 
-2017-12-8-13-53-24    UserID [9]    Transaction Complete 
-2017-12-8-13-53-24    UserID [6]    Transaction Complete 
-2017-12-8-13-53-25    UserID [4]    Transaction Complete 
-2017-12-8-13-53-25    UserID [6]    Transaction Complete 
-2017-12-8-13-53-25    UserID [5]    Transaction Complete 
-2017-12-8-13-53-25    UserID [1]    Transaction Complete 
-2017-12-8-13-53-25    UserID [9]    Transaction Complete 
-2017-12-8-13-53-25    UserID [3]    Transaction Complete 
-2017-12-8-13-53-25    UserID [0]    Transaction Complete 
-2017-12-8-13-53-25    UserID [8]    Transaction Complete 
-2017-12-8-13-53-25    UserID [2]    Transaction Complete 
-2017-12-8-13-53-25    UserID [7]    Transaction Complete 
-2017-12-8-13-53-25    UserID [6]    Transaction Complete 
-2017-12-8-13-53-25    UserID [4]    Transaction Complete 
-2017-12-8-13-53-25    UserID [5]    Transaction Complete 
-2017-12-8-13-53-25    UserID [1]    Transaction Complete 
-2017-12-8-13-53-25    UserID [7]    Transaction Complete 
-2017-12-8-13-53-25    UserID [3]    Transaction Complete 
-2017-12-8-13-53-25    UserID [8]    Transaction Complete 
-2017-12-8-13-53-25    UserID [2]    Transaction Complete 
-2017-12-8-13-53-25    UserID [0]    Transaction Complete 
-2017-12-8-13-53-25    UserID [9]    Transaction Complete 
-2017-12-8-13-53-25    UserID [4]    Transaction Complete 
-2017-12-8-13-53-25    UserID [1]    Transaction Complete 
-2017-12-8-13-53-25    UserID [6]    Transaction Complete 
-2017-12-8-13-53-25    UserID [5]    Transaction Complete 
-2017-12-8-13-53-25    UserID [3]    Transaction Complete 
-2017-12-8-13-53-25    UserID [0]    Transaction Complete 
-2017-12-8-13-53-25    UserID [2]    Transaction Complete 
-2017-12-8-13-53-25    UserID [7]    Transaction Complete 
-2017-12-8-13-53-25    UserID [9]    Transaction Complete 
-2017-12-8-13-53-25    UserID [8]    Transaction Complete 
-2017-12-8-13-53-26    UserID [4]    Transaction Complete 
-2017-12-8-13-53-26    UserID [1]    Transaction Complete 
-2017-12-8-13-53-26    UserID [9]    Transaction Complete 
-2017-12-8-13-53-26    UserID [7]    Transaction Complete 
-2017-12-8-13-53-26    UserID [6]    Transaction Complete 
-2017-12-8-13-53-26    UserID [5]    Transaction Complete 
-2017-12-8-13-53-26    UserID [3]    Transaction Complete 
-2017-12-8-13-53-26    UserID [2]    Transaction Complete 
-2017-12-8-13-53-26    UserID [8]    Transaction Complete 
-2017-12-8-13-53-26    UserID [0]    Transaction Complete 
-2017-12-8-13-53-26    UserID [6]    Transaction Complete 
-2017-12-8-13-53-26    UserID [1]    Transaction Complete 
-2017-12-8-13-53-26    UserID [2]    Transaction Complete 
-2017-12-8-13-53-26    UserID [0]    Transaction Complete 
-2017-12-8-13-53-26    UserID [8]    Transaction Complete 
-2017-12-8-13-53-26    UserID [4]    Transaction Complete 
-2017-12-8-13-53-26    UserID [3]    Transaction Complete 
-2017-12-8-13-53-26    UserID [7]    Transaction Complete 
-2017-12-8-13-53-26    UserID [5]    Transaction Complete 
-2017-12-8-13-53-26    UserID [9]    Transaction Complete 
-2017-12-8-13-53-27    UserID [6]    Transaction Complete 
-2017-12-8-13-53-27    UserID [3]    Transaction Complete 
-2017-12-8-13-53-27    UserID [2]    Transaction Complete 
-2017-12-8-13-53-27    UserID [5]    Transaction Complete 
-2017-12-8-13-53-27    UserID [7]    Transaction Complete 
-2017-12-8-13-53-27    UserID [9]    Transaction Complete 
-2017-12-8-13-53-27    UserID [1]    Transaction Complete 
-2017-12-8-13-53-27    UserID [0]    Transaction Complete 
-2017-12-8-13-53-27    UserID [8]    Transaction Complete 
-2017-12-8-13-53-27    UserID [4]    Transaction Complete 
-2017-12-8-13-53-27    UserID [8]    Transaction Complete 
-2017-12-8-13-53-27    UserID [7]    Transaction Complete 
-2017-12-8-13-53-27    UserID [2]    Transaction Complete 
-2017-12-8-13-53-27    UserID [3]    Transaction Complete 
-2017-12-8-13-53-27    UserID [9]    Transaction Complete 
-2017-12-8-13-53-27    UserID [5]    Transaction Complete 
-2017-12-8-13-53-27    UserID [1]    Transaction Complete 
-2017-12-8-13-53-27    UserID [6]    Transaction Complete 
-2017-12-8-13-53-27    UserID [4]    Transaction Complete 
-2017-12-8-13-53-27    UserID [0]    Transaction Complete 
-2017-12-8-13-53-27    UserID [5]    Transaction Complete 
-2017-12-8-13-53-27    UserID [3]    Transaction Complete 
-2017-12-8-13-53-27    UserID [1]    Transaction Complete 
-2017-12-8-13-53-28    UserID [2]    Transaction Complete 
-2017-12-8-13-53-28    UserID [4]    Transaction Complete 
-2017-12-8-13-53-28    UserID [8]    Transaction Complete 
-2017-12-8-13-53-28    UserID [0]    Transaction Complete 
-2017-12-8-13-53-28    UserID [9]    Transaction Complete 
-2017-12-8-13-53-28    UserID [6]    Transaction Complete 
-2017-12-8-13-53-28    UserID [7]    Transaction Complete 
-2017-12-8-13-53-28    UserID [0]    Transaction Complete 
-2017-12-8-13-53-28    UserID [6]    Transaction Complete 
-2017-12-8-13-53-28    UserID [2]    Transaction Complete 
-2017-12-8-13-53-28    UserID [4]    Transaction Complete 
-2017-12-8-13-53-28    UserID [3]    Transaction Complete 
-2017-12-8-13-53-28    UserID [9]    Transaction Complete 
-2017-12-8-13-53-28    UserID [5]    Transaction Complete 
-2017-12-8-13-53-28    UserID [8]    Transaction Complete 
-2017-12-8-13-53-28    UserID [7]    Transaction Complete 
-2017-12-8-13-53-28    UserID [1]    Transaction Complete 
-2017-12-8-13-53-28    UserID [3]    Transaction Complete 
-2017-12-8-13-53-28    UserID [0]    Transaction Complete 
-2017-12-8-13-53-28    UserID [2]    Transaction Complete 
-2017-12-8-13-53-28    UserID [9]    Transaction Complete 
-2017-12-8-13-53-28    UserID [8]    Transaction Complete 
-2017-12-8-13-53-28    UserID [5]    Transaction Complete 
-2017-12-8-13-53-28    UserID [7]    Transaction Complete 
-2017-12-8-13-53-28    UserID [6]    Transaction Complete 
-2017-12-8-13-53-28    UserID [4]    Transaction Complete 
-2017-12-8-13-53-28    UserID [1]    Transaction Complete 
-2017-12-8-13-53-29    UserID [0]    Transaction Complete 
-2017-12-8-13-53-29    UserID [8]    Transaction Complete 
-2017-12-8-13-53-29    UserID [6]    Transaction Complete 
-2017-12-8-13-53-29    UserID [2]    Transaction Complete 
-2017-12-8-13-53-29    UserID [9]    Transaction Complete 
-2017-12-8-13-53-29    UserID [7]    Transaction Complete 
-2017-12-8-13-53-29    UserID [4]    Transaction Complete 
-2017-12-8-13-53-29    UserID [3]    Transaction Complete 
-2017-12-8-13-53-29    UserID [5]    Transaction Complete 
-2017-12-8-13-53-29    UserID [1]    Transaction Complete 
-2017-12-8-13-53-29    UserID [6]    Transaction Complete 
-2017-12-8-13-53-29    UserID [0]    Transaction Complete 
-2017-12-8-13-53-29    UserID [5]    Transaction Complete 
-2017-12-8-13-53-29    UserID [1]    Transaction Complete 
-2017-12-8-13-53-29    UserID [3]    Transaction Complete 
-2017-12-8-13-53-29    UserID [7]    Transaction Complete 
-2017-12-8-13-53-29    UserID [9]    Transaction Complete 
-2017-12-8-13-53-29    UserID [8]    Transaction Complete 
-2017-12-8-13-53-29    UserID [4]    Transaction Complete 
-2017-12-8-13-53-29    UserID [2]    Transaction Complete 
-2017-12-8-13-53-30    UserID [3]    Transaction Complete 
-2017-12-8-13-53-30    UserID [8]    Transaction Complete 
-2017-12-8-13-53-30    UserID [2]    Transaction Complete 
-2017-12-8-13-53-30    UserID [0]    Transaction Complete 
-2017-12-8-13-53-30    UserID [9]    Transaction Complete 
-2017-12-8-13-53-30    UserID [1]    Transaction Complete 
-2017-12-8-13-53-30    UserID [5]    Transaction Complete 
-2017-12-8-13-53-30    UserID [7]    Transaction Complete 
-2017-12-8-13-53-30    UserID [6]    Transaction Complete 
-2017-12-8-13-53-30    UserID [4]    Transaction Complete 
-2017-12-8-13-53-30    UserID [7]    Transaction Complete 
-2017-12-8-13-53-30    UserID [2]    Transaction Complete 
-2017-12-8-13-53-30    UserID [6]    Transaction Complete 
-2017-12-8-13-53-30    UserID [9]    Transaction Complete 
-2017-12-8-13-53-30    UserID [4]    Transaction Complete 
-2017-12-8-13-53-30    UserID [1]    Transaction Complete 
-2017-12-8-13-53-30    UserID [3]    Transaction Complete 
-2017-12-8-13-53-30    UserID [5]    Transaction Complete 
-2017-12-8-13-53-30    UserID [0]    Transaction Complete 
-2017-12-8-13-53-30    UserID [8]    Transaction Complete 
-2017-12-8-13-53-30    UserID [7]    Transaction Complete 
-2017-12-8-13-53-30    UserID [3]    Transaction Complete 
-2017-12-8-13-53-30    UserID [5]    Transaction Complete 
-2017-12-8-13-53-30    UserID [0]    Transaction Complete 
-2017-12-8-13-53-30    UserID [9]    Transaction Complete 
-2017-12-8-13-53-30    UserID [1]    Transaction Complete 
-2017-12-8-13-53-30    UserID [2]    Transaction Complete 
-2017-12-8-13-53-30    UserID [8]    Transaction Complete 
-2017-12-8-13-53-30    UserID [4]    Transaction Complete 
-2017-12-8-13-53-30    UserID [6]    Transaction Complete 
-2017-12-8-13-53-31    UserID [5]    Transaction Complete 
-2017-12-8-13-53-31    UserID [1]    Transaction Complete 
-2017-12-8-13-53-31    UserID [3]    Transaction Complete 
-2017-12-8-13-53-31    UserID [7]    Transaction Complete 
-2017-12-8-13-53-31    UserID [4]    Transaction Complete 
-2017-12-8-13-53-31    UserID [9]    Transaction Complete 
-2017-12-8-13-53-31    UserID [6]    Transaction Complete 
-2017-12-8-13-53-31    UserID [0]    Transaction Complete 
-2017-12-8-13-53-31    UserID [8]    Transaction Complete 
-2017-12-8-13-53-31    UserID [2]    Transaction Complete 
-2017-12-8-13-53-31    UserID [2]    Transaction Complete 
-2017-12-8-13-53-31    UserID [9]    Transaction Complete 
-2017-12-8-13-53-31    UserID [8]    Transaction Complete 
-2017-12-8-13-53-31    UserID [3]    Transaction Complete 
-2017-12-8-13-53-31    UserID [6]    Transaction Complete 
-2017-12-8-13-53-31    UserID [4]    Transaction Complete 
-2017-12-8-13-53-31    UserID [1]    Transaction Complete 
-2017-12-8-13-53-31    UserID [5]    Transaction Complete 
-2017-12-8-13-53-31    UserID [7]    Transaction Complete 
-2017-12-8-13-53-31    UserID [0]    Transaction Complete 
-2017-12-8-13-53-32    UserID [3]    Transaction Complete 
-2017-12-8-13-53-32    UserID [0]    Transaction Complete 
-2017-12-8-13-53-32    UserID [7]    Transaction Complete 
-2017-12-8-13-53-32    UserID [1]    Transaction Complete 
-2017-12-8-13-53-32    UserID [5]    Transaction Complete 
-2017-12-8-13-53-32    UserID [2]    Transaction Complete 
-2017-12-8-13-53-32    UserID [6]    Transaction Complete 
-2017-12-8-13-53-32    UserID [4]    Transaction Complete 
-2017-12-8-13-53-32    UserID [9]    Transaction Complete 
-2017-12-8-13-53-32    UserID [8]    Transaction Complete 
-2017-12-8-13-53-32    UserID [3]    Transaction Complete 
-2017-12-8-13-53-32    UserID [1]    Transaction Complete 
-2017-12-8-13-53-32    UserID [8]    Transaction Complete 
-2017-12-8-13-53-32    UserID [9]    Transaction Complete 
-2017-12-8-13-53-32    UserID [7]    Transaction Complete 
-2017-12-8-13-53-32    UserID [6]    Transaction Complete 
-2017-12-8-13-53-32    UserID [5]    Transaction Complete 
-2017-12-8-13-53-32    UserID [4]    Transaction Complete 
-2017-12-8-13-53-32    UserID [0]    Transaction Complete 
-2017-12-8-13-53-32    UserID [2]    Transaction Complete 
-2017-12-8-13-53-33    UserID [3]    Transaction Complete 
-2017-12-8-13-53-33    UserID [4]    Transaction Complete 
-2017-12-8-13-53-33    UserID [7]    Transaction Complete 
-2017-12-8-13-53-33    UserID [1]    Transaction Complete 
-2017-12-8-13-53-33    UserID [8]    Transaction Complete 
-2017-12-8-13-53-33    UserID [0]    Transaction Complete 
-2017-12-8-13-53-33    UserID [5]    Transaction Complete 
-2017-12-8-13-53-33    UserID [2]    Transaction Complete 
-2017-12-8-13-53-33    UserID [9]    Transaction Complete 
-2017-12-8-13-53-33    UserID [6]    Transaction Complete 
-2017-12-8-13-53-33    UserID [8]    Transaction Complete 
-2017-12-8-13-53-33    UserID [4]    Transaction Complete 
-2017-12-8-13-53-33    UserID [7]    Transaction Complete 
-2017-12-8-13-53-33    UserID [3]    Transaction Complete 
-2017-12-8-13-53-33    UserID [0]    Transaction Complete 
-2017-12-8-13-53-33    UserID [5]    Transaction Complete 
-2017-12-8-13-53-33    UserID [9]    Transaction Complete 
-2017-12-8-13-53-33    UserID [2]    Transaction Complete 
-2017-12-8-13-53-33    UserID [6]    Transaction Complete 
-2017-12-8-13-53-33    UserID [1]    Transaction Complete 
-2017-12-8-13-53-33    UserID [8]    Transaction Complete 
-2017-12-8-13-53-33    UserID [5]    Transaction Complete 
-2017-12-8-13-53-33    UserID [6]    Transaction Complete 
-2017-12-8-13-53-33    UserID [0]    Transaction Complete 
-2017-12-8-13-53-33    UserID [3]    Transaction Complete 
-2017-12-8-13-53-33    UserID [1]    Transaction Complete 
-2017-12-8-13-53-33    UserID [9]    Transaction Complete 
-2017-12-8-13-53-33    UserID [2]    Transaction Complete 
-2017-12-8-13-53-33    UserID [7]    Transaction Complete 
-2017-12-8-13-53-33    UserID [4]    Transaction Complete 
-2017-12-8-13-53-34    UserID [8]    Transaction Complete 
-2017-12-8-13-53-34    UserID [4]    Transaction Complete 
-2017-12-8-13-53-34    UserID [7]    Transaction Complete 
-2017-12-8-13-53-34    UserID [6]    Transaction Complete 
-2017-12-8-13-53-34    UserID [0]    Transaction Complete 
-2017-12-8-13-53-34    UserID [9]    Transaction Complete 
-2017-12-8-13-53-34    UserID [5]    Transaction Complete 
-2017-12-8-13-53-34    UserID [3]    Transaction Complete 
-2017-12-8-13-53-34    UserID [1]    Transaction Complete 
-2017-12-8-13-53-34    UserID [2]    Transaction Complete 
-2017-12-8-13-53-34    UserID [8]    Transaction Complete 
-2017-12-8-13-53-34    UserID [6]    Transaction Complete 
-2017-12-8-13-53-34    UserID [3]    Transaction Complete 
-2017-12-8-13-53-34    UserID [7]    Transaction Complete 
-2017-12-8-13-53-34    UserID [4]    Transaction Complete 
-2017-12-8-13-53-34    UserID [9]    Transaction Complete 
-2017-12-8-13-53-34    UserID [2]    Transaction Complete 
-2017-12-8-13-53-34    UserID [0]    Transaction Complete 
-2017-12-8-13-53-34    UserID [1]    Transaction Complete 
-2017-12-8-13-53-34    UserID [5]    Transaction Complete 
-2017-12-8-13-53-34    UserID [8]    Transaction Complete 
-2017-12-8-13-53-35    UserID [7]    Transaction Complete 
-2017-12-8-13-53-35    UserID [1]    Transaction Complete 
-2017-12-8-13-53-35    UserID [0]    Transaction Complete 
-2017-12-8-13-53-35    UserID [9]    Transaction Complete 
-2017-12-8-13-53-35    UserID [2]    Transaction Complete 
-2017-12-8-13-53-35    UserID [6]    Transaction Complete 
-2017-12-8-13-53-35    UserID [3]    Transaction Complete 
-2017-12-8-13-53-35    UserID [4]    Transaction Complete 
-2017-12-8-13-53-35    UserID [5]    Transaction Complete 
-2017-12-8-13-53-35    UserID [8]    Transaction Complete 
-2017-12-8-13-53-35    UserID [3]    Transaction Complete 
-2017-12-8-13-53-35    UserID [6]    Transaction Complete 
-2017-12-8-13-53-35    UserID [5]    Transaction Complete 
-2017-12-8-13-53-35    UserID [8]    Transaction Complete 
-2017-12-8-13-53-35    UserID [7]    Transaction Complete 
-2017-12-8-13-53-35    UserID [2]    Transaction Complete 
-2017-12-8-13-53-35    UserID [9]    Transaction Complete 
-2017-12-8-13-53-35    UserID [4]    Transaction Complete 
-2017-12-8-13-53-35    UserID [0]    Transaction Complete 
-2017-12-8-13-53-35    UserID [1]    Transaction Complete 
-2017-12-8-13-53-35    UserID [7]    Transaction Complete 
-2017-12-8-13-53-35    UserID [4]    Transaction Complete 
-2017-12-8-13-53-35    UserID [1]    Transaction Complete 
-2017-12-8-13-53-35    UserID [6]    Transaction Complete 
-2017-12-8-13-53-35    UserID [5]    Transaction Complete 
-2017-12-8-13-53-35    UserID [2]    Transaction Complete 
-2017-12-8-13-53-35    UserID [9]    Transaction Complete 
-2017-12-8-13-53-35    UserID [8]    Transaction Complete 
-2017-12-8-13-53-35    UserID [0]    Transaction Complete 
-2017-12-8-13-53-35    UserID [3]    Transaction Complete 
-2017-12-8-13-53-36    UserID [6]    Transaction Complete 
-2017-12-8-13-53-36    UserID [9]    Transaction Complete 
-2017-12-8-13-53-36    UserID [3]    Transaction Complete 
-2017-12-8-13-53-36    UserID [0]    Transaction Complete 
-2017-12-8-13-53-36    UserID [4]    Transaction Complete 
-2017-12-8-13-53-36    UserID [7]    Transaction Complete 
-2017-12-8-13-53-36    UserID [5]    Transaction Complete 
-2017-12-8-13-53-36    UserID [2]    Transaction Complete 
-2017-12-8-13-53-36    UserID [1]    Transaction Complete 
-2017-12-8-13-53-36    UserID [8]    Transaction Complete 
-2017-12-8-13-53-36    UserID [6]    Transaction Complete 
-2017-12-8-13-53-36    UserID [9]    Transaction Complete 
-2017-12-8-13-53-36    UserID [7]    Transaction Complete 
-2017-12-8-13-53-36    UserID [1]    Transaction Complete 
-2017-12-8-13-53-36    UserID [3]    Transaction Complete 
-2017-12-8-13-53-36    UserID [0]    Transaction Complete 
-2017-12-8-13-53-36    UserID [4]    Transaction Complete 
-2017-12-8-13-53-36    UserID [2]    Transaction Complete 
-2017-12-8-13-53-36    UserID [8]    Transaction Complete 
-2017-12-8-13-53-36    UserID [5]    Transaction Complete 
-2017-12-8-13-53-37    UserID [8]    Transaction Complete 
-2017-12-8-13-53-37    UserID [2]    Transaction Complete 
-2017-12-8-13-53-37    UserID [0]    Transaction Complete 
-2017-12-8-13-53-37    UserID [7]    Transaction Complete 
-2017-12-8-13-53-37    UserID [4]    Transaction Complete 
-2017-12-8-13-53-37    UserID [6]    Transaction Complete 
-2017-12-8-13-53-37    UserID [1]    Transaction Complete 
-2017-12-8-13-53-37    UserID [9]    Transaction Complete 
-2017-12-8-13-53-37    UserID [3]    Transaction Complete 
-2017-12-8-13-53-37    UserID [5]    Transaction Complete 
-2017-12-8-13-53-37    UserID [6]    Transaction Complete 
-2017-12-8-13-53-37    UserID [9]    Transaction Complete 
-2017-12-8-13-53-37    UserID [2]    Transaction Complete 
-2017-12-8-13-53-37    UserID [4]    Transaction Complete 
-2017-12-8-13-53-37    UserID [0]    Transaction Complete 
-2017-12-8-13-53-37    UserID [5]    Transaction Complete 
-2017-12-8-13-53-37    UserID [7]    Transaction Complete 
-2017-12-8-13-53-37    UserID [8]    Transaction Complete 
-2017-12-8-13-53-37    UserID [1]    Transaction Complete 
-2017-12-8-13-53-37    UserID [3]    Transaction Complete 
-2017-12-8-13-53-38    UserID [0]    Transaction Complete 
-2017-12-8-13-53-38    UserID [5]    Transaction Complete 
-2017-12-8-13-53-38    UserID [9]    Transaction Complete 
-2017-12-8-13-53-38    UserID [4]    Transaction Complete 
-2017-12-8-13-53-38    UserID [8]    Transaction Complete 
-2017-12-8-13-53-38    UserID [3]    Transaction Complete 
-2017-12-8-13-53-38    UserID [1]    Transaction Complete 
-2017-12-8-13-53-38    UserID [2]    Transaction Complete 
-2017-12-8-13-53-38    UserID [6]    Transaction Complete 
-2017-12-8-13-53-38    UserID [7]    Transaction Complete 
-2017-12-8-13-53-38    UserID [0]    Transaction Complete 
-2017-12-8-13-53-38    UserID [5]    Transaction Complete 
-2017-12-8-13-53-38    UserID [2]    Transaction Complete 
-2017-12-8-13-53-38    UserID [8]    Transaction Complete 
-2017-12-8-13-53-38    UserID [6]    Transaction Complete 
-2017-12-8-13-53-38    UserID [3]    Transaction Complete 
-2017-12-8-13-53-38    UserID [9]    Transaction Complete 
-2017-12-8-13-53-38    UserID [4]    Transaction Complete 
-2017-12-8-13-53-38    UserID [7]    Transaction Complete 
-2017-12-8-13-53-38    UserID [1]    Transaction Complete 
-2017-12-8-13-53-38    UserID [0]    Transaction Complete 
-2017-12-8-13-53-38    UserID [5]    Transaction Complete 
-2017-12-8-13-53-38    UserID [4]    Transaction Complete 
-2017-12-8-13-53-38    UserID [9]    Transaction Complete 
-2017-12-8-13-53-38    UserID [8]    Transaction Complete 
-2017-12-8-13-53-38    UserID [2]    Transaction Complete 
-2017-12-8-13-53-38    UserID [3]    Transaction Complete 
-2017-12-8-13-53-38    UserID [6]    Transaction Complete 
-2017-12-8-13-53-38    UserID [7]    Transaction Complete 
-2017-12-8-13-53-38    UserID [1]    Transaction Complete 
-2017-12-8-13-53-39    UserID [0]    Transaction Complete 
-2017-12-8-13-53-39    UserID [6]    Transaction Complete 
-2017-12-8-13-53-39    UserID [4]    Transaction Complete 
-2017-12-8-13-53-39    UserID [9]    Transaction Complete 
-2017-12-8-13-53-39    UserID [5]    Transaction Complete 
-2017-12-8-13-53-39    UserID [3]    Transaction Complete 
-2017-12-8-13-53-39    UserID [7]    Transaction Complete 
-2017-12-8-13-53-39    UserID [1]    Transaction Complete 
-2017-12-8-13-53-39    UserID [8]    Transaction Complete 
-2017-12-8-13-53-39    UserID [2]    Transaction Complete 
-2017-12-8-13-53-39    UserID [0]    Transaction Complete 
-2017-12-8-13-53-39    UserID [2]    Transaction Complete 
-2017-12-8-13-53-39    UserID [5]    Transaction Complete 
-2017-12-8-13-53-39    UserID [7]    Transaction Complete 
-2017-12-8-13-53-39    UserID [9]    Transaction Complete 
-2017-12-8-13-53-39    UserID [4]    Transaction Complete 
-2017-12-8-13-53-39    UserID [6]    Transaction Complete 
-2017-12-8-13-53-39    UserID [8]    Transaction Complete 
-2017-12-8-13-53-39    UserID [1]    Transaction Complete 
-2017-12-8-13-53-39    UserID [3]    Transaction Complete 
-2017-12-8-13-53-40    UserID [4]    Transaction Complete 
-2017-12-8-13-53-40    UserID [1]    Transaction Complete 
-2017-12-8-13-53-40    UserID [8]    Transaction Complete 
-2017-12-8-13-53-40    UserID [9]    Transaction Complete 
-2017-12-8-13-53-40    UserID [7]    Transaction Complete 
-2017-12-8-13-53-40    UserID [6]    Transaction Complete 
-2017-12-8-13-53-40    UserID [0]    Transaction Complete 
-2017-12-8-13-53-40    UserID [2]    Transaction Complete 
-2017-12-8-13-53-40    UserID [3]    Transaction Complete 
-2017-12-8-13-53-40    UserID [5]    Transaction Complete 
-2017-12-8-13-53-40    UserID [1]    Transaction Complete 
-2017-12-8-13-53-40    UserID [2]    Transaction Complete 
-2017-12-8-13-53-40    UserID [6]    Transaction Complete 
-2017-12-8-13-53-40    UserID [8]    Transaction Complete 
-2017-12-8-13-53-40    UserID [5]    Transaction Complete 
-2017-12-8-13-53-40    UserID [7]    Transaction Complete 
-2017-12-8-13-53-40    UserID [9]    Transaction Complete 
-2017-12-8-13-53-40    UserID [4]    Transaction Complete 
-2017-12-8-13-53-40    UserID [0]    Transaction Complete 
-2017-12-8-13-53-40    UserID [3]    Transaction Complete 
-2017-12-8-13-53-41    UserID [5]    Transaction Complete 
-2017-12-8-13-53-41    UserID [8]    Transaction Complete 
-2017-12-8-13-53-41    UserID [1]    Transaction Complete 
-2017-12-8-13-53-41    UserID [6]    Transaction Complete 
-2017-12-8-13-53-41    UserID [2]    Transaction Complete 
-2017-12-8-13-53-41    UserID [9]    Transaction Complete 
-2017-12-8-13-53-41    UserID [3]    Transaction Complete 
-2017-12-8-13-53-41    UserID [7]    Transaction Complete 
-2017-12-8-13-53-41    UserID [4]    Transaction Complete 
-2017-12-8-13-53-41    UserID [0]    Transaction Complete 
-2017-12-8-13-53-41    UserID [2]    Transaction Complete 
-2017-12-8-13-53-41    UserID [7]    Transaction Complete 
-2017-12-8-13-53-41    UserID [4]    Transaction Complete 
-2017-12-8-13-53-41    UserID [6]    Transaction Complete 
-2017-12-8-13-53-41    UserID [9]    Transaction Complete 
-2017-12-8-13-53-41    UserID [0]    Transaction Complete 
-2017-12-8-13-53-41    UserID [5]    Transaction Complete 
-2017-12-8-13-53-41    UserID [8]    Transaction Complete 
-2017-12-8-13-53-41    UserID [1]    Transaction Complete 
-2017-12-8-13-53-41    UserID [3]    Transaction Complete 
-2017-12-8-13-53-41    UserID [7]    Transaction Complete 
-2017-12-8-13-53-41    UserID [6]    Transaction Complete 
-2017-12-8-13-53-41    UserID [1]    Transaction Complete 
-2017-12-8-13-53-41    UserID [2]    Transaction Complete 
-2017-12-8-13-53-41    UserID [5]    Transaction Complete 
-2017-12-8-13-53-41    UserID [4]    Transaction Complete 
-2017-12-8-13-53-41    UserID [0]    Transaction Complete 
-2017-12-8-13-53-41    UserID [3]    Transaction Complete 
-2017-12-8-13-53-41    UserID [9]    Transaction Complete 
-2017-12-8-13-53-41    UserID [8]    Transaction Complete 
-2017-12-8-13-53-42    UserID [7]    Transaction Complete 
-2017-12-8-13-53-42    UserID [3]    Transaction Complete 
-2017-12-8-13-53-42    UserID [4]    Transaction Complete 
-2017-12-8-13-53-42    UserID [6]    Transaction Complete 
-2017-12-8-13-53-42    UserID [9]    Transaction Complete 
-2017-12-8-13-53-42    UserID [5]    Transaction Complete 
-2017-12-8-13-53-42    UserID [1]    Transaction Complete 
-2017-12-8-13-53-42    UserID [2]    Transaction Complete 
-2017-12-8-13-53-42    UserID [8]    Transaction Complete 
-2017-12-8-13-53-42    UserID [0]    Transaction Complete 
-2017-12-8-13-53-42    UserID [7]    Transaction Complete 
-2017-12-8-13-53-42    UserID [2]    Transaction Complete 
-2017-12-8-13-53-42    UserID [4]    Transaction Complete 
-2017-12-8-13-53-42    UserID [6]    Transaction Complete 
-2017-12-8-13-53-42    UserID [5]    Transaction Complete 
-2017-12-8-13-53-42    UserID [1]    Transaction Complete 
-2017-12-8-13-53-42    UserID [3]    Transaction Complete 
-2017-12-8-13-53-42    UserID [0]    Transaction Complete 
-2017-12-8-13-53-42    UserID [8]    Transaction Complete 
-2017-12-8-13-53-42    UserID [9]    Transaction Complete 
-2017-12-8-13-53-42    UserID [7]    Transaction Complete 
-2017-12-8-13-53-43    UserID [8]    Transaction Complete 
-2017-12-8-13-53-43    UserID [2]    Transaction Complete 
-2017-12-8-13-53-43    UserID [9]    Transaction Complete 
-2017-12-8-13-53-43    UserID [1]    Transaction Complete 
-2017-12-8-13-53-43    UserID [4]    Transaction Complete 
-2017-12-8-13-53-43    UserID [6]    Transaction Complete 
-2017-12-8-13-53-43    UserID [3]    Transaction Complete 
-2017-12-8-13-53-43    UserID [5]    Transaction Complete 
-2017-12-8-13-53-43    UserID [0]    Transaction Complete 
-2017-12-8-13-53-43    UserID [7]    Transaction Complete 
-2017-12-8-13-53-43    UserID [1]    Transaction Complete 
-2017-12-8-13-53-43    UserID [0]    Transaction Complete 
-2017-12-8-13-53-43    UserID [2]    Transaction Complete 
-2017-12-8-13-53-43    UserID [6]    Transaction Complete 
-2017-12-8-13-53-43    UserID [5]    Transaction Complete 
-2017-12-8-13-53-43    UserID [9]    Transaction Complete 
-2017-12-8-13-53-43    UserID [8]    Transaction Complete 
-2017-12-8-13-53-43    UserID [4]    Transaction Complete 
-2017-12-8-13-53-43    UserID [3]    Transaction Complete 
-2017-12-8-13-53-43    UserID [7]    Transaction Complete 
-2017-12-8-13-53-43    UserID [3]    Transaction Complete 
-2017-12-8-13-53-43    UserID [2]    Transaction Complete 
-2017-12-8-13-53-43    UserID [4]    Transaction Complete 
-2017-12-8-13-53-43    UserID [9]    Transaction Complete 
-2017-12-8-13-53-43    UserID [6]    Transaction Complete 
-2017-12-8-13-53-43    UserID [1]    Transaction Complete 
-2017-12-8-13-53-43    UserID [5]    Transaction Complete 
-2017-12-8-13-53-43    UserID [8]    Transaction Complete 
-2017-12-8-13-53-43    UserID [0]    Transaction Complete 
-2017-12-8-13-53-43    UserID [7]    Transaction Complete 
-2017-12-8-13-53-44    UserID [4]    Transaction Complete 
-2017-12-8-13-53-44    UserID [8]    Transaction Complete 
-2017-12-8-13-53-44    UserID [9]    Transaction Complete 
-2017-12-8-13-53-44    UserID [2]    Transaction Complete 
-2017-12-8-13-53-44    UserID [1]    Transaction Complete 
-2017-12-8-13-53-44    UserID [5]    Transaction Complete 
-2017-12-8-13-53-44    UserID [0]    Transaction Complete 
-2017-12-8-13-53-44    UserID [3]    Transaction Complete 
-2017-12-8-13-53-44    UserID [6]    Transaction Complete 
-2017-12-8-13-53-44    UserID [7]    Transaction Complete 
+2017-12-9-13-49-31    UserID [8]    Transaction Complete 
+2017-12-9-13-49-31    UserID [0]    Transaction Complete 
+2017-12-9-13-49-31    UserID [22]    Transaction Complete 
+2017-12-9-13-49-31    UserID [15]    Transaction Complete 
+2017-12-9-13-49-31    UserID [26]    Transaction Complet2017-12-9-13-49-32    UserID [0]    Transaction Complete 
+2017-12-9-13-49-40    UserID [0]    Transaction Complete 
+2017-12-9-13-49-47    UserID [0]    Transaction Complete 
+2017-12-9-13-49-54    UserID [0]    Transaction Complete 
+2017-12-9-13-50-1    UserID [0]    Transaction Complete 
+2017-12-9-13-50-8    UserID [0]    Transaction Complete 
+2017-12-9-13-50-15    UserID [0]    Transaction Complete 
+2017-12-9-13-50-22    UserID [0]    Transaction Complete 
+
+2017-12-9-13-50-10    UserID [1]    Transaction Complete 
+2017-12-9-13-50-19    UserID [0]    Transaction Complete 
+2017-12-9-13-50-21    UserID [1]    Transaction Complete 
+
+2017-12-9-13-49-59    UserID [0]    Transaction Complete 
+2017-12-9-13-50-0    UserID [1]    Transaction Complete 
+2017-12-9-13-50-10    UserID [2]    Transaction Complete 
+2017-12-9-13-50-11    UserID [1]    Transaction Complete 
+2017-12-9-13-50-11    UserID [0]    Transaction Complete 
+2017-12-9-13-50-20    UserID [2]    Transaction Complete 
+2017-12-9-13-50-21    UserID [0]    Transaction Complete 
+2017-12-9-13-50-21    UserID [1]    Transaction Complete 
+2017-12-9-13-50-10    UserID [0]    Transaction Complete 
+2017-12-9-13-50-11    UserID [1]    Transaction Complete 
+2017-12-9-13-50-11    UserID [3]    Transaction Complete 
+2017-12-9-13-50-11    UserID [2]    Transaction Complete 
+2017-12-9-13-50-21    UserID [0]    Transaction Complete 
+2017-12-9-13-50-21    UserID [1]    Transaction Complete 
+2017-12-9-13-50-21    UserID [3]    Transaction Complete 
+2017-12-9-13-50-22    UserID [2]    Transaction Complete 
+
+2017-12-9-13-50-11    UserID [3]    Transaction Complete 
+2017-12-9-13-50-11    UserID [2]    Transaction Complete 
+2017-12-9-13-50-11    UserID [4]    Transaction Complete 
+2017-12-9-13-50-21    UserID [2]    Transaction Complete 
+2017-12-9-13-50-21    UserID [0]    Transaction Complete 
+2017-12-9-13-50-21    UserID [4]    Transaction Complete 
+2017-12-9-13-50-21    UserID [3]    Transaction Complete 
+2017-12-9-13-50-21    UserID [1]    Transaction Complete 
+2-9-13-50-12    UserID [4]    Transaction Complete 
+2017-12-9-13-50-12    UserID [3]    Transaction Complete 22017-12-9-13-50-22    UserID [4]    Transaction Complete 
+2017-12-9-13-50-22    UserID [2]    Transaction Complete 
+2017-12-9-13-50-22    UserID [0]    Transaction Complete 
+2017-12-9-13-50-22    UserID [3]    Transaction Complete 
+2017-12-9-13-50-22    UserID [1]    Transaction Complete 
+2017-12-9-13-50-22    UserID [5]    Transaction Complete 
+17-12-9-13-50-13    UserID [0]    Transaction Complete 
+22017-12-9-13-50-23    UserID [6]    Transaction Complete 
+2017-12-9-13-50-23    UserID [5]    Transaction Complete 
+2017-12-9-13-50-23    UserID [3]    Transaction Complete 
+2017-12-9-13-50-23    UserID [1]    Transaction Complete 
+2017-12-9-13-50-23    UserID [0]    Transaction Complete 
+2017-12-9-13-50-23    UserID [2]    Transaction Complete 
+2017-12-9-13-50-23    UserID [4]    Transaction Complete 2017-12-9-13-50-24    UserID [4]    Transaction Complete 
+2017-12-9-13-50-24    UserID [7]    Transaction Complete 
+2017-12-9-13-50-24    UserID [6]    Transaction Complete 
+2017-12-9-13-50-25    UserID [2]    Transaction Complete 
+2017-12-9-13-50-25    UserID [0]    Transaction Complete 
+2017-12-9-13-50-25    UserID [1]    Transaction Complete 
+2017-12-9-13-50-25    UserID [3]    Transaction Complete 
+2017-12-9-13-50-26    UserID [5]    Transaction Complete 
+017-12-9-13-50-24    UserID [4]    Transaction Complete 
+2017-12-9-13-50-24    UserID [6]    Transaction Complete 
+2017-12-9-13-50-25    UserID [5]    Transaction Complete 
+2017-12-9-13-50-25    UserID [0]    Transaction Complete 
+2017-12-9-13-50-25    UserID [2]    Transaction Complete 
+2017-12-9-13-50-25    UserID [1]    Transaction Complete 2017-12-9-13-50-26    UserID [2]    Transaction Complete 
+22017-12-9-13-50-26    UserID [3]    Transaction Complete 
+017-12-9-13-50-26    UserID [7]    Transaction Complete 
+2017-12-9-13-50-26    UserID [3]    Transaction Complete 
+2017-12-9-13-50-26    UserID [5]    Transaction Complete 
+2017-12-9-13-50-27    UserID [8]    Transaction Complete 
+2017-12-9-13-50-27    UserID [6]    Transaction Complete 
+2017-12-9-13-50-27    UserID [0]    Transaction Complete 
+2017-12-9-13-50-27    UserID [1]    Transaction Complete 
+lete 
+2017-12-9-13-50-26    UserID [10]    Transaction Complete 
+2017-12-9-13-50-26    UserID [7]    Transaction Complete 
+te 
+2017-12-9-13-50-18    UserID [4]    Transaction Complete 
+2017-12-9-13-50-18    UserID [8]    Transaction Complete 
+2017-12-9-13-50-19    UserID [10]    Transaction Complete 
+2017-12-9-13-50-27    UserID [5]    Transaction Complete 
+2017-12-9-13-50-27    UserID [2]    Transaction Complete 
+2017-12-9-13-50-27    UserID [0]    Transaction Complete 
+2017-12-9-13-50-27    UserID [1]    Transaction Complete 
+2017-12-9-13-50-28    UserID [11]    Transaction Complete 
+2017-12-9-13-50-28    UserID [3]    Transaction Complete 
+2017-12-9-13-50-28    UserID [6]    Transaction Complete 
+n Complete 
+2017-12-9-13-50-20    UserID [8]    Transaction Complete 
+2017-12-9-13-50-20    UserID [5]    Transaction Complete 
+2017-12-9-13-50-21    UserID [9]    Transaction Complete 
+2017-12-9-13-50-21    UserID [10]    Transaction Complete 
+2017-12-9-13-50-21    UserID [3]    Transaction Complete 
+2017-122017-12-9-13-50-22    UserID [3]    Transaction Comp2017-12-9-13-50-25    UserID [1]    Transaction Complete 
+plete 
+2017-12-9-13-50-22    UserID [13]    Transaction Complete 
+2017-12-9-13-50-22    UserID [4]    Transaction Complete 
+2017-12-9-13-50-22    UserID [14]    Transaction Complete 
+2017-12-9-13-50-22    UserID [8]    Transaction Complete 
+2017-12-9-13-50-22    UserID [15]    Transaction Complete 
+2017-12-9-13-50-22    UserID [12]    Transaction Complet2017-12-9-13-50-22    UserID [0]    Transaction Complete 
+e 
+2017-12-9-13-50-22    UserID [5]    Transaction Complete 
+2017-12-9-13-50-23    UserID [6]    Transaction Complete 
+2017-12-9-13-50-23    UserID [7]    Transaction Complete 
+2017-12-9-13-50-23    UserID [2]    Transaction Complete 
+2017-12-9-13-50-23    UserID [10]    Transaction Complete 
+2017-12-9-13-50-23    UserID [9]    Transaction Complete 
+2017-12-9-13-50-23    UserID [13]    Transaction Complete 
+2017-12-9-13-50-23    UserID [15]    Transaction Complete 
+22017-12-9-13-50-24    UserID [15]    Transaction Complete2017-12-9-13-50-24    UserID [6]    Transaction Complete 
+20172017-12-9-13-50-25    UserID [14]    Transaction Complete 
+2017-12-9-13-50-25    UserID [13]    Transaction Complete 
+2017-12-9-13-50-25    UserID [3]    Transaction Complete 
+2017-12-9-13-50-25    UserID [0]    Transaction Complete 
+2017-12-9-13-50-25    UserID [18]    Transaction Complete 
+2017-12-9-13-50-25    UserID [5]    Transaction Complete 2017-12-9-13-50-25    UserID [11]    Transaction Complete 
+2017-12-9-13-50-25    UserID [4]    Transaction Complete 
+2017-12-9-13-50-25    UserID [3]    Transaction Complete 
+2017-12-9-13-50-25    UserID [5]    Transaction Complete 
+2017-12-9-13-50-27    UserID [14]    Transaction Complete 
+ 
+2017-12-9-13-50-25    UserID [7]    Transaction Complete 
+2017-12-9-13-50-26    UserID [11]    Transaction Complete 
+2012017-12-9-13-50-26    UserID [18]    Transaction Complet2017-12-9-13-50-26    UserID [9]    Transaction Complete 
+202017-12-9-13-50-27    UserID [0]    Transaction Complete 
+2017-12-9-13-50-27    UserID [4]    Transaction Complete 
+2012017-12-9-13-50-27    UserID [1]    Transaction Complete 
+2017-12-9-13-50-27    UserID [10]    Transaction Complete 
+2017-12-9-13-50-27    UserID [16]    Transaction Complete 
+2017-12-9-13-50-27    UserID [3]    Transaction Complete 
+2017-12-9-13-50-27    UserID [2]    Transaction Complete 
+
+2017-12-9-13-50-27    UserID [8]    Transaction Complete 
+17-12-9-13-50-27    UserID [10]    Transaction Complete 
+2017-2017-12-9-13-50-28    UserID [19]    Transaction Complete 
+saction Complete 
+2017-12-9-13-50-23    UserID [17]    Transaction Complete 
+2017-12-9-13-50-24    UserID [9]    Transaction Complete 
+2017-12-9-13-50-24    UserID [18]    Transaction Complete 
+2017-12-9-13-50-24    UserID [3]    Transaction Complete 
+2017-12-9-13-50-24    UserID [0]    Transaction Complete 
+2017-12-9-13-50-24    UserID [10]    Transaction Complete 
+2017-12-9-13-50-24    UserID [11]    Transaction Complete 
+2017-12-9-13-50-25    UserID [21]    Transaction Complete 
+2017-12-9-13-50-25    UserID [14]    Transaction Complete 
+2017-12-9-13-50-25    UserID [23]    Transaction Complete 
+3-50-23    UserID [2]    Transaction Complete 
+2017-12-9-13-50-23    UserID [20]    Transaction Complete 
+2017-12-9-13-50-24    UserID [23]    Transaction Complete 
+2017-12-9-13-50-24    UserID [24]    Transaction Complete 
+2017-12-9-13-50-25    UserID [18]    Transaction Complete 
+2017-12-92017-12-9-13-50-25    UserID [13]    Transaction Complete 
+13-50-25    UserID [27]    Transaction Complete 
+2017-12-9-13-50-25    UserID [29]    Transaction Complete 
+2017-12-9-13-50-25    UserID [16]    Transaction Complete 
+2017-12-9-13-50-25    UserID [22]    Transaction Complete 2017-12-9-13-50-25    UserID [14]    Transaction Complete 
+22017-12-9-13-50-26    UserID [28]    Transaction Complete 
+2017-12-9-13-50-26    UserID [14]    Transaction Complete 
+2017-12-9-13-50-27    UserID [11]    Transaction Complete 
+2017-12-9-13-50-27    UserID [3]    Transaction Complete 
+2017-12-9-13-50-27    UserID [5]    Transaction Complete 
+2017-12-9-13-50-27    UserID [0]    Transaction Complete 
+2017-12-9-13-50-27    UserID [8]    Transaction Complete 
+2017-12-9-13-50-27    UserID [30]    Transaction Complete 
+2017-12-9-13-50-27    UserID [9]    Transaction Complete 
+22017-12-9-13-50-27    UserID [17]    Transaction Complete2017-12-9-13-50-28    UserID [11]    Transaction Complete 
+ 
+2017-12-9-13-50-28    UserID [10]    Transaction Complete 
+2017-12-9-13-50-28    UserID [1]    Transaction Complete 
+2017-12-9-13-50-28    UserID [6]    Transaction Complete 
+2017-12-9-13-50-28    UserID [12]    Transaction Complete 
+2017-12-9-13-50-28    UserID [13]    Transaction Complete 
+2017-12-9-13-50-28    UserID [31]    Transaction Complete 
+2017-12-9-13-50-28    UserID [20]    Transaction Complete 
+2017-12-9-13-50-28    UserID [18]    Transaction Complete 
+2017-12-9-13-50-28    UserID [14]    Transaction Complete 
+2017-12-9-13-50-28    UserID [7]    Transaction Complete 
+2017-12-9-13-50-28    UserID [28]    Transaction Complete 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+6 6 6
+7 7 7
+8 8 8
+9 9 9
+10 10 10
+11 11 11
+12 12 12
+13 13 13
+14 14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 29 29
+30 30 30
+31 31 31
+32 32 32
+33 33 33
+34 34 34
+35 35 35
+36 36 36
+37 37 37
+38 38 38
+39 39 39
+40 40 40
+41 41 41
+42 42 42
+43 43 43
+44 44 44
+45 45 45
+46 46 46
+47 47 47
+48 48 48
+49 49 49
+50 50 50
+1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+6 6 6
+7 7 7
+8 8 8
+9 9 9
+10 10 10
+11 11 11
+12 12 12
+13 13 13
+14 14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 29 29
+30 30 30
+31 31 31
+32 32 32
+33 33 33
+34 34 34
+35 35 35
+36 36 36
+37 37 37
+38 38 38
+39 39 39
+40 40 40
+41 41 41
+42 42 42
+43 43 43
+44 44 44
+45 45 45
+46 46 46
+47 47 47
+48 48 48
+49 49 49
+50 50 50
+1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+6 6 6
+7 7 7
+8 8 8
+9 9 9
+10 10 10
+11 11 11
+12 12 12
+13 13 13
+14 14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 29 29
+30 30 30
+31 31 31
+32 32 32
+33 33 33
+34 34 34
+35 35 35
+36 36 36
+37 37 37
+38 38 38
+39 39 39
+40 40 40
+41 41 41
+42 42 42
+43 43 43
+44 44 44
+45 45 45
+46 46 46
+47 47 47
+48 48 48
+49 49 49
+50 50 50
+1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+6 6 6
+7 7 7
+8 8 8
+9 9 9
+10 10 10
+11 11 11
+12 12 12
+13 13 13
+14 14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 29 29
+30 30 30
+31 31 31
+32 32 32
+33 33 33
+34 34 34
+35 35 35
+36 36 36
+37 37 37
+38 38 38
+39 39 39
+40 40 40
+41 41 41
+42 42 42
+43 43 43
+44 44 44
+45 45 45
+46 46 46
+47 47 47
+48 48 48
+49 49 49
+50 50 50
+1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+6 6 6
+7 7 7
+8 8 8
+9 9 9
+10 10 10
+11 11 11
+12 12 12
+13 13 13
+14 14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 29 29
+30 30 30
+31 31 31
+32 32 32
+33 33 33
+34 34 34
+35 35 35
+36 36 36
+37 37 37
+38 38 38
+39 39 39
+40 40 40
+41 41 41
+42 42 42
+43 43 43
+44 44 44
+45 45 45
+46 46 46
+47 47 47
+48 48 48
+49 49 49
+50 50 50
+1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+6 6 6
+7 7 7
+8 8 8
+9 9 9
+10 10 10
+11 11 11
+12 12 12
+13 13 13
+14 14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 29 29
+30 30 30
+31 31 31
+32 32 32
+33 33 33
+34 34 34
+35 35 35
+36 36 36
+37 37 37
+38 38 38
+39 39 39
+40 40 40
+41 41 41
+42 42 42
+43 43 43
+44 44 44
+45 45 45
+46 46 46
+47 47 47
+48 48 48
+49 49 49
+50 50 50
