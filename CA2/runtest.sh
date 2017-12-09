@@ -1,39 +1,5 @@
 #!/bin/bash
 
-#While loop to ensure cpu loadtest runs no longer than 10
-go=false;
-while [ $go = 'false' ]
-do
-	if [ $1 -le 11 ]; then
-
-  	go=true;
-
-	fi
-done
-
-#While loop to ensure first value in parameter range is no longer than 50
-go2=false;
-
-while [! $go2 ]
-do
-  	if [ $2 -le 51 ]; then
-
-        go2=true;
-
-        fi
-done
-
-#While loop to ensure second value in parameter range is no longer than 50
-go3=false;
-
-while [! $go3 ]
-do
-        if [ $3 -le 51 ]; then
-
-        go3=true;
-
-        fi
-done
 #get rid of while loops
 #Linux for loop
 for i in {$2..$3};
