@@ -9,8 +9,9 @@ do
 #Value i is the number of users on the system, 10 is the amount of time each load test will run for
 ./loadtest $i 10 &
 #Collect and output CPU Utilization
-mpstat -o JSON | jq '.sysstat.hosts[0].statistics[0]."cpu-load"[0].idle'
-	echo $i $i $i >> datafile.dat
+#mpstat command runs for 10 seconds each, and generates 1 report every 10 seconds
+idle=`mpstat -o JSON | jq '.sysstat.hosts[0].statistics[0]."cpu-load"[0].idle'`
+	echo $i $i $idle >> datafile.dat
 pkill loadtest
 done
 
