@@ -11,7 +11,8 @@ do
 #Collect and output CPU Utilization
 #mpstat command runs for 10 seconds each, and generates 1 report every 10 seconds
 idle=`mpstat -o JSON | jq '.sysstat.hosts[0].statistics[0]."cpu-load"[0].idle'`
-	echo $i $i $idle >> datafile.dat
+cpuUT=`mpstat -o JSON | jq '100 - .sysstat.hosts[0].statistics[0]."cpu-load"[0].idle'`
+	echo $cpuUT $i $idle >> datafile.dat
 pkill loadtest
 done
 
