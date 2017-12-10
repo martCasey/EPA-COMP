@@ -1,88 +1,51 @@
 CO i Idle
-42 ./synthetic.dat 1 81.15
-70 ./synthetic.dat 2 69.12
-99 ./synthetic.dat 3 64.85
-124 ./synthetic.dat 4 59.42
-150 ./synthetic.dat 5 57.11
-168 ./synthetic.dat 6 51.51
-197 ./synthetic.dat 7 48.69
-216 ./synthetic.dat 8 46.08
-235 ./synthetic.dat 9 43.67
-241 ./synthetic.dat 10 41.97
-253 ./synthetic.dat 11 41.85
-278 ./synthetic.dat 12 37.19
-287 ./synthetic.dat 13 36.96
-298 ./synthetic.dat 14 32.36
-318 ./synthetic.dat 15 33.1
-323 ./synthetic.dat 16 30.38
-325 ./synthetic.dat 17 29.65
-343 ./synthetic.dat 18 28.24
-344 ./synthetic.dat 19 26.71
-364 ./synthetic.dat 20 25.38
-371 ./synthetic.dat 21 17.27
-379 ./synthetic.dat 22 21.56
-391 ./synthetic.dat 23 17.59
-393 ./synthetic.dat 24 17.17
-419 ./synthetic.dat 25 13.15
-393 ./synthetic.dat 26 18.41
-415 ./synthetic.dat 27 13.65
-431 ./synthetic.dat 28 13.15
-422 ./synthetic.dat 29 13.86
-432 ./synthetic.dat 30 11.85
-443 ./synthetic.dat 31 10.85
-504 ./synthetic.dat 32 5.52
-438 ./synthetic.dat 33 12.04
-471 ./synthetic.dat 34 7.92
-507 ./synthetic.dat 35 2.3
-494 ./synthetic.dat 36 4.41
-529 ./synthetic.dat 37 1.1
-513 ./synthetic.dat 38 3.01
-527 ./synthetic.dat 39 1.5
-536 ./synthetic.dat 40 1
-524 ./synthetic.dat 41 1.6
-521 ./synthetic.dat 42 0.9
-507 ./synthetic.dat 43 1.71
-529 ./synthetic.dat 44 0.5
-526 ./synthetic.dat 45 0.2
-529 ./synthetic.dat 46 0.7
-528 ./synthetic.dat 47 0.2
-520 ./synthetic.dat 48 0.2
-527 ./synthetic.dat 49 0.3
-519 ./synthetic.dat 50 0.3
-525 ./synthetic.dat 51 0
-537 ./synthetic.dat 52 0.3
-535 ./synthetic.dat 53 0.2
-540 ./synthetic.dat 54 0
-525 ./synthetic.dat 55 0.4
-521 ./synthetic.dat 56 0.1
-525 ./synthetic.dat 57 0.1
-534 ./synthetic.dat 58 0.2
-539 ./synthetic.dat 59 0
-529 ./synthetic.dat 60 0
-515 ./synthetic.dat 61 0.3
-524 ./synthetic.dat 62 0
-524 ./synthetic.dat 63 0
-509 ./synthetic.dat 64 0
-524 ./synthetic.dat 65 0
-535 ./synthetic.dat 66 0
-527 ./synthetic.dat 67 0
-522 ./synthetic.dat 68 0
-516 ./synthetic.dat 69 0
-523 ./synthetic.dat 70 0
-520 ./synthetic.dat 71 0
-502 ./synthetic.dat 72 0
-491 ./synthetic.dat 73 0
-481 ./synthetic.dat 74 0
-523 ./synthetic.dat 75 0
-514 ./synthetic.dat 76 0
-492 ./synthetic.dat 77 0
-496 ./synthetic.dat 78 0
-491 ./synthetic.dat 79 0
-486 ./synthetic.dat 80 0
-495 ./synthetic.dat 81 0
-503 ./synthetic.dat 82 0
-492 ./synthetic.dat 83 0
-491 ./synthetic.dat 84 0
-511 ./synthetic.dat 85 0
-513 ./synthetic.dat 86 0
-471 ./synthetic.dat 87 0
+48 1 94.36
+86 2 84.35
+124 3 76.78
+154 4 72.39
+182 5 66.5
+209 6 62.21
+237 7 57.82
+255 8 53.51
+271 9 50.35
+287 10 48.5
+306 11 44.13
+322 12 42.23
+339 13 38.15
+352 14 36.41
+365 15 33.23
+368 16 33.4
+374 17 30.59
+398 18 28.06
+390 19 27.01
+434 20 21.84
+422 21 22.37
+450 22 16.35
+442 23 20.26
+442 24 18.09
+463 25 16.33
+462 26 14.44
+470 27 13.5
+466 28 10.43
+508 29 5.81
+477 30 5.48
+455 31 3
+512 32 4
+531 33 3.21
+503 34 3.81
+534 35 1.4
+524 36 0.8
+517 37 2
+509 38 1.71
+517 39 1.9
+521 40 1
+542 41 0.9
+536 42 0.8
+507 43 1.1
+508 44 0.3
+514 45 0.6
+525 46 0.7
+521 47 0.6
+546 48 1
+553 49 0.5
+524 50 0.7
