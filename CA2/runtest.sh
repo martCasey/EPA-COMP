@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Writes the headings of the 3 values to the file datafile.dat
-echo "CO" "i" "Idle" > results.dat
+echo "CO" "N" "Idle" > results.dat
 #Linux for loop
 for i in {1..50};
 do
