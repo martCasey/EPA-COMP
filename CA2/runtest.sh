@@ -3,7 +3,7 @@
 #Writes the headings of the 3 values to the file datafile.dat
 echo "CO" "i" "Idle" > results.dat
 #Linux for loop
-for i in {1..50};
+for i in {1..150};
 do
 #Run load test in background
 #loadtest runs forever
