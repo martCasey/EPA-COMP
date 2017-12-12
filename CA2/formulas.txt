@@ -1,0 +1,9 @@
+Ui = Bi/T
+
+N = i
+
+Di = (Ui*T)/CO = Ui/(Co/T) = Ui/Xo
+
+Xo = CO/T
+
+R = N/Xo
